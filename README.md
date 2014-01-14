@@ -8,6 +8,10 @@ Features:
 - autoplay true/false
 - changeable duration of animation
 
+###Demo
+
+See the demo of this plugin: http://medynski.info/github/jquery-slider/
+
 ###How to use:
 
 - Download the source.
