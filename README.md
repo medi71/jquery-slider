@@ -1,7 +1,7 @@
 jquery-slider
 =============
 
-###Simple jQuery Slider v1.0
+###Simple jQuery Slider plugin v1.0
 
 Features:
 - horizontal scrolling
